@@ -1,3 +1,5 @@
+![excavate](assets/preview.png)
+
 # excavate
 
 Every git history is an archaeological site. excavate digs through yours and reports what the commits confess: which files are cursed, which are hot, which always change together, and who really owns each part of the tree. Zero dependencies beyond git itself.
